@@ -14,7 +14,13 @@
     - [Estrategías para enfrentar los entornos VUCA](#estrategías-para-enfrentar-los-entornos-vuca)
   - [Industría 4.0](#industría-40)
     - [Pilares industría 4.0](#pilares-industría-40)
+      - [Automatización](#automatización)
+      - [Análisis de datos](#análisis-de-datos)
+      - [Tecnología de la información](#tecnología-de-la-información)
+      - [Inteligecia artificial](#inteligecia-artificial)
     - [Casos de éxito](#casos-de-éxito)
+      - [BMW](#bmw)
+      - [Airbus](#airbus)
   - [Entornos Multigeneracionales](#entornos-multigeneracionales)
     - [Generaciones](#generaciones)
       - [Baby Boomers (nacidos entre 1946 y 1964)](#baby-boomers-nacidos-entre-1946-y-1964)
@@ -27,9 +33,23 @@
     - [Dirección](#dirección)
     - [Control](#control)
     - [Habilidades gerenciales](#habilidades-gerenciales)
+      - [Algunas de las habilidades gerenciales importantes para la industria 4.0 son](#algunas-de-las-habilidades-gerenciales-importantes-para-la-industria-40-son)
+        - [Pensamiento estratégico](#pensamiento-estratégico)
+        - [Habilidad para liderar equipos multigeneracionales](#habilidad-para-liderar-equipos-multigeneracionales)
+        - [Conocimientos en tecnología](#conocimientos-en-tecnología)
+        - [Habilidad para adaptarse a cambios constantes](#habilidad-para-adaptarse-a-cambios-constantes)
+        - [Habilidad para tomar decisiones basadas en datos](#habilidad-para-tomar-decisiones-basadas-en-datos)
+        - [Habilidad para fomentar la innovación](#habilidad-para-fomentar-la-innovación)
+    - [Gestión Ambiental](#gestión-ambiental)
     - [Liderazgo](#liderazgo)
     - [CIO y CEO](#cio-y-ceo)
     - [Tic y gestión del conocimiento](#tic-y-gestión-del-conocimiento)
+      - [Etapas de la gestión de conocimiento](#etapas-de-la-gestión-de-conocimiento)
+        - [Identificación y captura del conocimiento](#identificación-y-captura-del-conocimiento)
+        - [Organización y estructuración del conocimiento](#organización-y-estructuración-del-conocimiento)
+        - [Almacenamiento y gestión del conocimiento](#almacenamiento-y-gestión-del-conocimiento)
+        - [Compartir y transferir el conocimiento](#compartir-y-transferir-el-conocimiento)
+        - [Uso y aplicación del conocimiento](#uso-y-aplicación-del-conocimiento)
   - [Sistema de información en las organizaciones](#sistema-de-información-en-las-organizaciones)
   - [BMPN](#bmpn)
   - [Fuentes](#fuentes)
@@ -92,20 +112,37 @@ Describe la integración de tecnologías digitales y avanzadas en los procesos d
 
 ### Pilares industría 4.0
 
-- **Automatización**:es uno de los mayores beneficios de la Revolución Industrial y la Industria 4.0. Las empresas pueden utilizar robots y sistemas automatizados para realizar tareas repetitivas y mejorar la eficiencia. La automatización también puede reducir errores y aumentar la precisión en las operaciones.
-- **Análisis de datos**:Al aprovechar el análisis de datos y el aprendizaje automático, las empresas pueden obtener información valiosa sobre sus operaciones y procesos. Esto puede ayudar a mejorar la eficiencia y tomar decisiones informadas.
-- **Tecnología de la información**:Las empresas pueden utilizar tecnología como el Internet de las cosas (IoT) para monitorear y controlar los procesos en tiempo real. Esto permite a los gerentes tomar decisiones más informadas y optimizar los procesos.
-- **Inteligecia artificial**: juega un papel clave en la Industria 4.0 al impulsar la automatización inteligente, la toma de decisiones basada en datos y la optimización de procesos.
-  - Robótica avanzada
-  - Análisis de datos y pronósticos
-  - Personalización y experiencia del cliente
-  - Optimización de procesos
-  - Control de calidad
+#### Automatización
+
+es uno de los mayores beneficios de la Revolución Industrial y la Industria 4.0. Las empresas pueden utilizar robots y sistemas automatizados para realizar tareas repetitivas y mejorar la eficiencia. La automatización también puede reducir errores y aumentar la precisión en las operaciones.
+
+#### Análisis de datos
+
+Al aprovechar el análisis de datos y el aprendizaje automático, las empresas pueden obtener información valiosa sobre sus operaciones y procesos. Esto puede ayudar a mejorar la eficiencia y tomar decisiones informadas.
+
+#### Tecnología de la información
+
+Las empresas pueden utilizar tecnología como el Internet de las cosas (IoT) para monitorear y controlar los procesos en tiempo real. Esto permite a los gerentes tomar decisiones más informadas y optimizar los procesos.
+
+#### Inteligecia artificial
+
+juega un papel clave en la Industria 4.0 al impulsar la automatización inteligente, la toma de decisiones basada en datos y la optimización de procesos.
+
+- Robótica avanzada
+- Análisis de datos y pronósticos
+- Personalización y experiencia del cliente
+- Optimización de procesos
+- Control de calidad
 
 ### Casos de éxito
 
-- **BMW**: ha adoptado tecnologías de la Industria 4.0 en sus plantas de producción, utilizando la robótica avanzada, la realidad aumentada y la inteligencia artificial para optimizar los procesos de fabricación de automóviles. Han logrado una mayor flexibilidad en la producción, reducción de costos y una mejora en la calidad del producto.
-- **Airbus**:  Airbus, el fabricante de aviones, ha aplicado la Industria 4.0 en sus procesos de producción, utilizando tecnologías de fabricación aditiva (impresión 3D), robótica colaborativa y análisis de datos para mejorar la eficiencia y la personalización en la fabricación de componentes aeroespaciales. Han logrado reducir los tiempos de producción y mejorar la calidad de los componentes.
+#### BMW
+
+ ha adoptado tecnologías de la Industria 4.0 en sus plantas de producción, utilizando la robótica avanzada, la realidad aumentada y la inteligencia artificial para optimizar los procesos de fabricación de automóviles. Han logrado una mayor flexibilidad en la producción, reducción de costos y una mejora en la calidad del producto.
+
+#### Airbus
+
+Airbus, el fabricante de aviones, ha aplicado la Industria 4.0 en sus procesos de producción, utilizando tecnologías de fabricación aditiva (impresión 3D), robótica colaborativa y análisis de datos para mejorar la eficiencia y la personalización en la fabricación de componentes aeroespaciales. Han logrado reducir los tiempos de producción y mejorar la calidad de los componentes.
 
 [Volver al índice](#índice)
 
@@ -175,11 +212,82 @@ En esta etapa, se establecen estándares de desempeño, se recopilan datos, se c
 
 ![matrix-covey](covey-matrix.png)
 
+Las habilidades gerenciales en la industria 4.0 son esenciales para liderar y administrar
+equipos en un entorno empresarial cada vez más digitalizado y automatizado.
+
+#### Algunas de las habilidades gerenciales importantes para la industria 4.0 son
+
+- Pensamiento estratégico
+- Habilidad para liderar equipos multigeneracionales
+- Conocimientos en tecnología
+- Habilidad para adaptarse a cambios constantes
+- Habilidad para tomar decisiones basadas en datos
+- Habilidad para fomentar la innovación
+  
+##### Pensamiento estratégico
+
+los gerentes deben ser capaces de pensar a largo plazo y comprender cómo las nuevas tecnologías pueden ayudar a sus empresas a alcanzar objetivos estratégicos.
+
+##### Habilidad para liderar equipos multigeneracionales
+
+la industria 4.0 ha creado un entorno laboral diverso, en el que trabajan juntos personas de diferentes edades, experiencias y antecedentes. Los gerentes deben ser capaces de liderar y motivar a este tipo de equipos.
+
+##### Conocimientos en tecnología
+
+los gerentes deben estar familiarizados con las tecnologías de la industria 4.0, como el Internet de las cosas, la inteligencia artificial y la automatización, para poder aprovechar su potencial y tomar decisiones informadas.
+
+##### Habilidad para adaptarse a cambios constantes
+
+la industria 4.0 es un entorno de cambio constante, y los gerentes deben ser capaces de adaptarse rápidamente a los cambios en los mercados, las tecnologías y las tendencias.
+
+##### Habilidad para tomar decisiones basadas en datos
+
+la industria 4.0 genera grandes cantidades de datos, y los gerentes deben ser capaces de analizar y utilizar esta
+información para tomar decisiones informadas.
+
+##### Habilidad para fomentar la innovación
+
+los gerentes deben ser capaces de fomentar la innovación en sus equipos y empresas, y de explorar nuevas formas de utilizar la tecnología para mejorar la eficiencia y la rentabilidad.
+
+### Gestión Ambiental
+
 ### Liderazgo
 
 ### CIO y CEO
 
 ### Tic y gestión del conocimiento
+
+Se refiere a los procesos y actividades que una organización implementa para capturar, organizar, almacenar, compartir y utilizar el conocimiento de manera efectiva.
+
+El conocimiento es un recurso valioso que impulsa la innovación, mejora el desempeño y proporciona ventajas competitivas a las organizaciones.
+
+#### Etapas de la gestión de conocimiento
+
+- Identificación y captura del conocimiento
+- Organización y estructuración del conocimiento
+- Almacenamiento y gestión del conocimiento
+- Compartir y transferir el conocimiento
+- Uso y aplicación del conocimiento
+
+##### Identificación y captura del conocimiento
+
+Consiste en identificar el conocimiento crítico dentro de la organización y capturarlo de diversas fuentes, como expertos, bases de datos, documentos, lecciones aprendidas, experiencias pasadas, etc. Esto se puede lograr a través de entrevistas, encuestas, reuniones, auditorías de conocimiento, entre otros métodos.
+
+##### Organización y estructuración del conocimiento
+
+Una vez capturado, el conocimiento debe ser organizado y estructurado de manera que sea fácilmente accesible y comprensible para los miembros de la organización. Esto implica categorizar el conocimiento en diferentes temas, crear bases de datos, utilizar sistemas de gestión de contenido, establecer taxonomías o utilizar herramientas tecnológicas adecuadas para su organización.
+
+##### Almacenamiento y gestión del conocimiento
+
+Una vez organizado, el conocimiento debe ser almacenado en una forma que sea fácilmente accesible. Esto puede incluir la creación de bases de datos, repositorios, wikis, intranets o sistemas de gestión del conocimiento que permitan a los empleados acceder y buscar información relevante cuando la necesiten
+
+##### Compartir y transferir el conocimiento
+
+La transferencia de conocimiento es esencial para aprovechar su valor. Las organizaciones deben fomentar la colaboración, el intercambio de experiencias y la comunicación abierta para promover el flujo de conocimiento entre los miembros. Esto puede lograrse a través de reuniones, sesiones de capacitación, comunidades de práctica, mentorías, herramientas de colaboración en línea, entre otros medios.
+
+##### Uso y aplicación del conocimiento
+
+El objetivo final de la gestión del conocimiento es utilizar el conocimiento de manera efectiva para mejorar la toma de decisiones, la resolución de problemas, la innovación y el desempeño organizacional en general. Esto implica fomentar una cultura de aprendizaje continuo, donde el conocimiento se aplique en la práctica y se incorpore en los procesos y actividades de la organización.
 
 [Volver al índice](#índice)
 
@@ -199,7 +307,8 @@ En esta etapa, se establecen estándares de desempeño, se recopilan datos, se c
 
 ## Fuentes
 
-- <https://t21.com.mx/automotriz/2020/02/28/bmw-innova-tecnologia-40-su-linea-produccion>
-- <https://www.lantek.com/es/blog/la-transformacion-digital-de-airbus>
+- [bmw](https://t21.com.mx/automotriz/2020/02/28/bmw-innova-tecnologia-40-su-linea-produccion)
+- [airbus](https://www.lantek.com/es/blog/la-transformacion-digital-de-airbus)
+- [matriz steven covey](http://www.integramasmas.com/la-matriz-de-steven-covey-y-su-aplicacion-a-la-productividad/)
 
 ---
