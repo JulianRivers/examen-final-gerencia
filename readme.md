@@ -40,9 +40,9 @@
         - [Habilidad para adaptarse a cambios constantes](#habilidad-para-adaptarse-a-cambios-constantes)
         - [Habilidad para tomar decisiones basadas en datos](#habilidad-para-tomar-decisiones-basadas-en-datos)
         - [Habilidad para fomentar la innovación](#habilidad-para-fomentar-la-innovación)
-    - [Gestión Ambiental](#gestión-ambiental)
-    - [Liderazgo](#liderazgo)
-    - [CIO y CEO](#cio-y-ceo)
+    - [Liderazgo y Gerencia](#liderazgo-y-gerencia)
+    - [CIO (Chief Information Officer)](#cio-chief-information-officer)
+    - [CEO (Chief Executive Officer)](#ceo-chief-executive-officer)
     - [Tic y gestión del conocimiento](#tic-y-gestión-del-conocimiento)
       - [Etapas de la gestión de conocimiento](#etapas-de-la-gestión-de-conocimiento)
         - [Identificación y captura del conocimiento](#identificación-y-captura-del-conocimiento)
@@ -51,7 +51,8 @@
         - [Compartir y transferir el conocimiento](#compartir-y-transferir-el-conocimiento)
         - [Uso y aplicación del conocimiento](#uso-y-aplicación-del-conocimiento)
   - [Sistema de información en las organizaciones](#sistema-de-información-en-las-organizaciones)
-  - [BMPN](#bmpn)
+  - [BMPN  (Business Process Model and Notation)](#bmpn--business-process-model-and-notation)
+    - [Desglose de BPMN](#desglose-de-bpmn)
   - [Fuentes](#fuentes)
 
 ## Entornos VUCA
@@ -249,13 +250,36 @@ información para tomar decisiones informadas.
 
 los gerentes deben ser capaces de fomentar la innovación en sus equipos y empresas, y de explorar nuevas formas de utilizar la tecnología para mejorar la eficiencia y la rentabilidad.
 
-### Gestión Ambiental
+### Liderazgo y Gerencia
 
-### Liderazgo
+(**diapositivas de Elon Musk**)
 
-### CIO y CEO
+### CIO (Chief Information Officer)
+
+El CIO es el responsable de la gestión estratégica de la tecnología de la información en una organización.
+
+- Supervisar y dirigir todas las actividades relacionadas con la tecnología de la información y los sistemas de información de la organización.
+- Desarrollar y ejecutar la estrategia de tecnología de la información de la empresa, alineada con los objetivos y necesidades empresariales.
+- Gestionar el presupuesto y los recursos tecnológicos de la organización.
+- Evaluar y seleccionar tecnologías y soluciones adecuadas para mejorar la eficiencia y la productividad de la organización.
+- Garantizar la seguridad de la información y la protección de datos.
+- Colaborar con otros líderes empresariales para identificar oportunidades de innovación y aplicar tecnologías emergentes que impulsen el crecimiento y la ventaja competitiva.
+
+### CEO (Chief Executive Officer)
+
+El CEO es el máximo responsable ejecutivo de una organización y tiene un papel integral en el liderazgo estratégico y la toma de decisiones.
+
+- Establecer la visión estratégica y los objetivos de la organización.
+- Tomar decisiones estratégicas clave y liderar el desarrollo e implementación de la estrategia empresarial.
+- Representar a la organización ante los stakeholders, como accionistas, clientes, empleados y socios externos.
+- Gestionar el rendimiento financiero de la organización y asegurar su crecimiento y rentabilidad.
+- Supervisar y colaborar con otros líderes y departamentos para garantizar la ejecución efectiva de la estrategia.
+- Evaluar y gestionar los riesgos empresariales y tomar medidas para mitigarlos.
+- Mantenerse actualizado sobre las tendencias y cambios en el entorno empresarial para adaptar la estrategia de la organización en consecuencia.
 
 ### Tic y gestión del conocimiento
+
+(diapositivas de tic y gestión de conocimiento)
 
 Se refiere a los procesos y actividades que una organización implementa para capturar, organizar, almacenar, compartir y utilizar el conocimiento de manera efectiva.
 
@@ -295,20 +319,36 @@ El objetivo final de la gestión del conocimiento es utilizar el conocimiento de
 
 ## Sistema de información en las organizaciones
 
+(**Diapositivas del video**)
+
 [Volver al índice](#índice)
 
 ---
 
-## BMPN
+## BMPN  (Business Process Model and Notation)
 
+Es un estándar de modelado de procesos empresariales que proporciona una notación gráfica para representar visualmente los diferentes pasos, actividades, eventos y flujos de un proceso.
+
+### Desglose de BPMN
+
+![bmpn](BPMN.jpg)
+Para crear un diagrama BPMN se utiliza un conjunto de elementos básicos que se clasifican en estos tres grupos principales:
+
+- Objetos de flujo (Círculos, rectángulos y diamantes que describen eventos o actividades específicas)
+- Conectando objetos (Vinculado con objetos de flujo para denotar la dirección)
+- Los carriles de natación (parecidos a los carriles de una piscina olímpica, organizan los objetos de flujo en varias categorías).
+- Piscinas (Puede describir diferentes departamentos o empresas)
+  
 [Volver al índice](#índice)
 
 ---
 
 ## Fuentes
 
+- [Entornos multigeneracionesl: Emily en paris](https://www.netflix.com/co/title/81037371)
 - [bmw](https://t21.com.mx/automotriz/2020/02/28/bmw-innova-tecnologia-40-su-linea-produccion)
 - [airbus](https://www.lantek.com/es/blog/la-transformacion-digital-de-airbus)
 - [matriz steven covey](http://www.integramasmas.com/la-matriz-de-steven-covey-y-su-aplicacion-a-la-productividad/)
+- [bpmn](https://www.processmaker.com/es/blog/bpmn-2-0-tutorial-and-examples/)
 
 ---
