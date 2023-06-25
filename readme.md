@@ -97,6 +97,7 @@ en la Industria 4.0 es común encontrar entornos multigeneracionales en el lugar
 
 ## Proceso administrativo
 
+![proceso](Proceso%20Administrativo.png)
 
 ## Habilidades gerenciales
 
